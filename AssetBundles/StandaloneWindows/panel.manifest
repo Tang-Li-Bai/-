@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4291111851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb10f2c3708be46596e220fda6b406b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84ce3eafae27c7303b6803c82650045
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a830ca11794cab49adf3567eef049f0, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb7583222c193d478dd58b0182847e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31e671fde300c1c4aa869de33432b64d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/MainPanel.prefab
+- Assets/Resources/UI/GamePanel.prefab
+Dependencies: []
